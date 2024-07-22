@@ -25,7 +25,7 @@ const Header = () => {
       </nav>
       <div className="header__user">
         <img src="/path/to/user-profile.png" alt="User Profile" />
-        <span className="header__user-name">John Doe</span>
+        <span className="header__user-name">Star jack</span>
       </div>
     </header>
   );
